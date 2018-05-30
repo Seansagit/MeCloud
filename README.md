@@ -24,4 +24,4 @@ Open up your browser and find a shape or image that really seems to capture a pa
 
 ## Step Three
 Open up R and do yourself the favor of getting the wonderful package ‘wordcloud2’.  The package is the result of great work done by Dawei Lang.  I recommend the tutorial provided as it lets one see how versatile and fun word clouds can be. 
-\url{https://github.com/lchiffon/wordcloud2}
+https://github.com/lchiffon/wordcloud2
