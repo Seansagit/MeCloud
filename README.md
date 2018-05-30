@@ -27,3 +27,4 @@ Open up R and do yourself the favor of getting the wonderful package ‘wordclou
 
 https://github.com/lchiffon/wordcloud2
 
+Once you have R ready to go, open up the code, grab the word lists, grab the picture...and have some fun!
